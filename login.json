@@ -1,0 +1,16 @@
+[
+  {
+    "user": "username",
+    "password": "password",
+    "nome": "Nome",
+    "cognome": "Cognome",
+    "dataDiNascita": "01/01/2000",
+    "matricola": "0512105000",
+    "laurea": "Triennale",
+    "corso": "Informatica",
+    "scadenza": "31/12/2030",
+    "tesseraFronte": "a.png",
+    "tesseraRetro": "b.png",
+    "qrCode": "c.png"
+  }
+]
