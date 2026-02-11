@@ -12,5 +12,47 @@
     "tesseraFronte": "a.png",
     "tesseraRetro": "b.png",
     "qrCode": "c.png"
+  },
+  {
+    "user": "c.siano@unisa.it",
+    "password": "password",
+    "nome": "Christian",
+    "cognome": "Siano",
+    "dataDiNascita": "19/05/2003",
+    "matricola": "0512101217",
+    "laurea": "Triennale",
+    "corso": "Economica",
+    "scadenza": "31/08/2028",
+    "tesseraFronte": "criFronte.png",
+    "tesseraRetro": "b.png",
+    "qrCode": "criQr.png"
+  },
+  {
+    "user": "a.cangianiello@unisa.it",
+    "password": "password",
+    "nome": "Anna Pia",
+    "cognome": "Cangianiello",
+    "dataDiNascita": "06/08/2002",
+    "matricola": "0423206598",
+    "laurea": "Triennale",
+    "corso": "Lettere",
+    "scadenza": "31/08/2028",
+    "tesseraFronte": "annaFronte.png",
+    "tesseraRetro": "b.png",
+    "qrCode": "annaQr.png"
+  },
+  {
+    "user": "a.orlandese@unisa.it",
+    "password": "password",
+    "nome": "Antonio",
+    "cognome": "Orlandese",
+    "dataDiNascita": "20/12/2003",
+    "matricola": "0512101582",
+    "laurea": "Triennale",
+    "corso": "Economia",
+    "scadenza": "31/08/2028",
+    "tesseraFronte": "antonioFronte.png",
+    "tesseraRetro": "b.png",
+    "qrCode": "antonioQr.png"
   }
 ]
